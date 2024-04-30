@@ -14,5 +14,6 @@
 
 ПРИМЕР:
 ./PATH_TO/tz1.sh /PATH_TO/"input_dir_name" /PATH_TO/"output_dir_name"
+
 В результате работы программы файлы из папки "input_dir_name" будут перекопированы все файлы
 в "output_dir_name" без сохранения иерархии
