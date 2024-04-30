@@ -15,4 +15,4 @@ find "$input_dir" -type f | while read file; do
         cp "$file" "$output_dir/$base"
     fi
 done
-echo "Все файлы были скопированы"
+echo "Все файлы были успешно скопированы"
